@@ -1,0 +1,17 @@
+npm init vue@latest
+npm install
+npm run dev
+
+Vue
+v-model 
+
+
+
+
+
+
+Basic
+push() 
+includes
+
+3: map,filter,reduce
