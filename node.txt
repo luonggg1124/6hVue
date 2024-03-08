@@ -4,8 +4,8 @@ npm run dev
 
 Vue
 v-model 
-
-
+ref
+defineProps
 
 
 
